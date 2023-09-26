@@ -1,0 +1,5 @@
+flutter_native_splash:
+  image: assets/shopping_list_app.png
+  color: "#323a3c"
+  android_gravity: "center"
+  ios_content_mode: "scaleAspectFill"
